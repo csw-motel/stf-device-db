@@ -17,7 +17,7 @@
   "main": "./index",
   "repository": {
     "type": "git",
-    "url": "https://github.com/openstf/stf-device-db.git"
+    "url": "https://github.com/openstf/stf-device-db.git#2.0.0"
   },
   "scripts": {
     "prepublish": "make"
