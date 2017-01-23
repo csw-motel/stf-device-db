@@ -915,7 +915,7 @@
       "rom": 4096
     },
     "name": {
-      "id": "PANTONE® 5",
+      "id": "PANTONEï¿½ 5",
       "long": "107SH"
     },
     "os": {
@@ -981,7 +981,7 @@
       "rom": 8192
     },
     "name": {
-      "id": "PANTONE® 6",
+      "id": "PANTONEï¿½ 6",
       "long": "200SH"
     },
     "os": {
@@ -3732,7 +3732,7 @@
       "rom": 1024
     },
     "name": {
-      "id": "ARROWS µ",
+      "id": "ARROWS ï¿½",
       "long": "F-07D"
     },
     "os": {
@@ -5759,7 +5759,7 @@
       "rom": 32768
     },
     "name": {
-      "id": "Windows® Phone",
+      "id": "Windowsï¿½ Phone",
       "long": "IS12T"
     },
     "os": {
@@ -15252,7 +15252,7 @@
     "display": {
       "h": 2560,
       "s": 5.1,
-      "w": 1440 
+      "w": 1440
     },
     "maker": {
       "code": "sc",
@@ -15621,6 +15621,35 @@
     "os": {
       "type": "android",
       "ver": "5.0"
+    }
+  },
+  "iPad_Air_Wi-Fi": {
+    "cpu": {
+      "cores": 2,
+      "freq": 1.3,
+      "name": "Apple A7"
+    },
+    "date": "2013-11-01T15:00:00.000Z",
+    "display": {
+      "h": 2048,
+      "s": 9.7,
+      "w": 1536
+    },
+    "maker": {
+      "code": "a",
+      "name": "Apple"
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
+    "name": {
+      "id": "iPad Air Wi-Fi",
+      "long": ""
+    },
+    "os": {
+      "type": "ios",
+      "ver": "8.1"
     }
   }
 }
