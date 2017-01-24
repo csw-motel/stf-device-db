@@ -15623,33 +15623,36 @@
       "ver": "5.0"
     }
   },
-  "iPad_Air_Wi-Fi": {
-    "cpu": {
-      "cores": 2,
-      "freq": 1.3,
-      "name": "Apple A7"
+  "Sony_Xperia_M2_dual": {
+    "carrier": {
+      "name": "vodafone P"
     },
-    "date": "2013-11-01T15:00:00.000Z",
+    "cpu": {
+      "cores": 4,
+      "freq": 1.2,
+      "name": "Quad-core 1.2 GHz"
+    },
+    "date": "2014-04-01T15:00:00.000Z",
     "display": {
-      "h": 2048,
-      "s": 9.7,
-      "w": 1536
+      "h": 960,
+      "s": 4.8,
+      "w": 540
     },
     "maker": {
-      "code": "a",
-      "name": "Apple"
+      "code": "so",
+      "name": "Sony mobile"
     },
     "memory": {
-      "ram": 1024,
+      "ram": 2048,
       "rom": 16384
     },
     "name": {
-      "id": "iPad Air Wi-Fi",
-      "long": ""
+      "id": "Sony Xperia M2 Dual",
+      "long": "Sony_Xperia_M2_dual"
     },
     "os": {
-      "type": "ios",
-      "ver": "8.1"
+      "type": "android",
+      "ver": "4.3"
     }
   }
 }
