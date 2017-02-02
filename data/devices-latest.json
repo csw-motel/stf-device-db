@@ -15527,7 +15527,7 @@
       "ver": "4.1.2"
     }
   },
-  "One_M9": {
+  "_One_M9": {
     "carrier": {
       "name": "himauhl_htc_europe"
     },
@@ -15559,7 +15559,7 @@
       "ver": "5.0.2"
     }
   },
-  "One_M8": {
+  "_One_M8": {
     "carrier": {
       "name": "htc_europe"
     },
