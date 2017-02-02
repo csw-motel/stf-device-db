@@ -14,4 +14,4 @@ logs
 npm-debug.log
 pids
 results
-node_modules
+/node_modules/
